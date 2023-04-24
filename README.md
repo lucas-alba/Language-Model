@@ -1,4 +1,4 @@
-# Language-Model
+# Language Model
 CSC 212 Laguage Model Project
 
 ## Assigment 
