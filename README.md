@@ -19,8 +19,7 @@ a. You are free to make your own test cases for your parser
 
 
 ## Usage 
-- Type into the filename.txt
-- Follows a close syntax for BASIC
-- Does not support Strings
-- Prints TAC and Optimized in console 
-- Prints x86 code in assembly.txt
+- Run the program and it will generate a sentence
+- Follows the grammar rules for American English
+- Counts the number of production rules used
+- Prints a tree to track the path the sentence took
