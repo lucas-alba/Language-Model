@@ -19,7 +19,7 @@ a. You are free to make your own test cases for your parser
 
 
 ## Usage 
-- Run the program and it will generate a sentence
+- Running the program will generate a random sentence
 - Follows the grammar rules for American English
 - Counts the number of production rules used
 - Prints a tree to track the path the sentence took
